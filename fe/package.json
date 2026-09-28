@@ -1,0 +1,23 @@
+{
+  "name": "nextjs-frontend",
+  "version": "1.0.0",
+  "description": "Next.js Frontend",
+  "scripts": {
+    "dev": "next dev -p 8000",
+    "build": "next build",
+    "start": "next start -p 8000",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.17.6",
+    "@types/react": "19.3.0",
+    "eslint": "^8",
+    "eslint-config-next": "^15.0.0",
+    "typescript": "5.8.2"
+  }
+}

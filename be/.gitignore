@@ -1,0 +1,17 @@
+*.js
+*.d.ts
+.DS_Store
+
+*.tsbuildinfo
+node_modules/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.env
+.env.local
+
+dist/
+coverage/
+.nyc_output/

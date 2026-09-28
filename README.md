@@ -45,7 +45,7 @@ Backend sẽ chạy tại: **http://localhost:3001**
 - **TypeScript** - Programming language
 - **Node.js** - Runtime
 
-## 📝 Frontend Features
+## Frontend Features
 
 ### Pages
 - **Home** (`/`) - Trang chủ với Server Component và Client Component
@@ -57,7 +57,7 @@ Backend sẽ chạy tại: **http://localhost:3001**
 - **Counter** - Client Component (state management)
 - **ServerInfo** - Server Component (server-side rendering)
 
-## 🔌 Backend Features
+## Backend Features
 
 ### API Endpoints
 - `GET /ping` - Health check
@@ -100,6 +100,6 @@ npm start
 cd be
 npm run build
 npm start
-**Happy Coding! 🚀**
+**Happy Coding!**
 
 Bắt đầu với `npm run dev` trong cả hai folder `fe/` và `be/` để chạy toàn bộ ứng dụng.
